@@ -61,3 +61,6 @@ Electronics should not automatically receive additional investment solely becaus
 ## Dashboard Preview
 
 ![Retail Sales Performance Dashboard](Retail_Sales_Performance_Dashboard.png)
+
+## Author
+Atena Rayson
